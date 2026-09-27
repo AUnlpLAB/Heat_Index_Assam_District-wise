@@ -8,7 +8,7 @@ This repository contains the Python-based analytical framework and implementatio
 * **Spatial Autocorrelation:** Uses Global Moran's I alongside Local Indicators of Spatial Association (LISA) to identify significant spatial dependencies and map localized thermal hotspots and coldspots.
 * **Geographically Weighted Regression (GWR):** Examines spatial non-stationarity and local environmental relationships to account for Assam's complex topographical matrix.
 * **Extreme Value Analysis (EVA):** Applies the Gumbel distribution to forecast recurrence probabilities and extreme thermal return periods for 10, 25, and 50-year thresholds (projecting up to 2075).
-# Core Findings Highlighted in the Data:
+# Findings in the Data:
 * Apparent warming rates significantly outpace actual air temperature increases across 28 districts.
 * The southwestern riverine corridor, specifically South Salmara Mancachar and Goalpara, forms an acute High-High thermal hotspot.
 * Projections indicate 50-year extreme apparent temperatures will exceed 35°C in highly vulnerable southern and southwestern districts, whereas elevated terrains like Dima Hasao, Biswanath, and Sonitpur function as thermal refugia with thresholds remaining below 31.25°C.
