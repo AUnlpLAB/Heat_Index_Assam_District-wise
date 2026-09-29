@@ -1,7 +1,7 @@
 # Heat_Index_Assam_District-wise
 
 
-This repository contains the Python-based analytical framework and implementation code for evaluating biometeorological human thermal stress across the 33 administrative districts of Assam. Utilizing 34 years of time-series data (1991–2025) from the NASA POWER database, this project quantifies climate vulnerability by analyzing the joint physiological impact of ambient temperature and atmospheric moisture rather than relying solely on raw environmental temperatures.   
+This repository contains the Python-based analytical framework and implementation code for evaluating biometeorological human thermal stress across the 33 administrative districts of Assam. Utilizing 35 years of time-series data (1991–2025) from the NASA POWER database, this project quantifies climate vulnerability by analyzing the joint physiological impact of ambient temperature and atmospheric moisture rather than relying solely on raw environmental temperatures.   
 # Key Methodologies Implemented:
 * **Heat Index Computation:** Calculates physiological apparent ('feels-like') temperature utilizing the Steadman framework and Rothfusz polynomial regression.
 * **Trend Detection:** Employs the non-parametric Mann-Kendall test and Theil-Sen robust slope estimator to quantify the magnitude and direction of monotonic climatic shifts.
